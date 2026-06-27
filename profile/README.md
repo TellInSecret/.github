@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Text+by+somethingkr;TellInSecret;The+center+of+the+Internet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Text+by+somethingkr;TellInSecret;The+center+of+the+Internet;tellinsecret.xyz" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,6 +27,11 @@
 ![Claude](https://img.shields.io/badge/Claude-FB9206?style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+
+## sites
+https://geonwoo.shop
+https://tellinsecret.xyz
+https://iamgeonwoo.com/
 
 ---
 
