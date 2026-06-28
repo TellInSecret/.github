@@ -1,4 +1,4 @@
-# TellInSecret
+# 환영합니다! 여기는 P2P통신 메신저을 만들고 있는 TellInSecret입니다
 
 <div align="center">
   <a href="https://git.io/typing-svg">
